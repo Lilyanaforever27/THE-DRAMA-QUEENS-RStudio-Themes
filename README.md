@@ -3,8 +3,9 @@ The Fantasy Palette Series is a collection of customized RStudio themes inspired
 
 **1. Lilyana's Daydream (aka Lily's Dream, June 24,2026)**: As the first palette of Lilyana's The Fantasy series, **Lilyana's Daydream (2026)** captures the vibe of *fantasy*,*dreaminess*, *Barbie-inspired glamour*, and celebration of *womanhood*.Built around shades of *pink*, *purple*, *blue*, and *yellow*, this palette provides an alternative pink & purple option that existing R themes are missing. The vibrant color palette is designed to remain gentle on the eyes and provide visual comfort during longer coding sessions.
 
-**2. Kiana's Summer (coming soon in Summer)**: The second palette, Kiana’s Summer, is designed for Lilyana’s friend. It combines different shades of blue to evoke the imagery *beach*, *ocean*, and *calmness*.
+**2. Kiana's Summer (Oct 1, 2026)**: The second palette, Kiana’s Summer, evokes the imagery *beach*, *ocean*, and *calmness* using various shades of blue along with some green and pink. 
 
+**2. Lilyana's Daydream Light (forthcoming in October 2026)**: Another pink & purple palette designed for those who prefer lighter and brighter colors. The palette keeps the signature pink series while introducing the barbie blue, orchid pink, and dusty periwinkle. 
 
 # How to apply the RStduio Theme
 Option 1: Install via URL
