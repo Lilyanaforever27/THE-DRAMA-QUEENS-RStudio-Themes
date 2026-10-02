@@ -6,14 +6,16 @@ The project was initiated on June 23, 2026, and builds upon the code from Ben Ha
 While there is a growing number of customized RStudio themes, there has been a lack of relevant themes for RStudio that are vibrant, feminine, and fashion-inspired palettes. For many of us, RStudio has become a handy software through which we conduct statistical analysis. However, existing themes may not fully accommodate users who prefer more varied, expressive, and vibrant color palettes. **I believe that aesthetics and analysis can coexist. Gender is a spectrum, and so should RStudio themes be. Software customization should accommodate diverse aesthetic preferences rather than conform to a single visual style.** **THE DRAMA QUEENS** is therefore a collection of Rthemes that addresses this gap of users' preferences. Drawing inspiration from films (e.g., Barbie), stories, fashion, and cosmetics, the collection celebrates femininity, diversity, inclusion, and self-expression. THE DRAMA QUEENS seeks to make statistical analysis a more colorful, creative, and personalized experience—because **you deserve a coding environment that makes you feel at home🌸.**
 
 ## The Collections 🌸🌸🌸
-**1. Lilyana's Daydream (June 24,2026)**: As the first palette of the collection, **Lilyana's Daydream (2026)** captures the vibe of *fantasy*,*dreaminess*, *Barbie-inspired glamour*, and celebration of *womanhood*. Built around shades of *pink*, *purple*, *blue*, and *yellow*, the palette introduces a distinctly feminine, fashion-inspired aesthetic to the RStudio coding environment.
-this palette provides an pink & purple option that existing R themes are missing. The vibrant color palette is designed to remain gentle on the eyes and provide visual comfort during longer coding sessions.
+**1. Lilyana's Daydream (June 24,2026)**: Pink, Purple & Romance.
+As the first palette of the collection, **Lilyana's Daydream (2026)** captures the vibe of *fantasy*,*dreaminess*, *Barbie-inspired glamour*, and celebration of *womanhood*. Built around shades of *pink*, *purple*, *blue*, and *yellow*, the palette introduces a distinctly feminine, fashion-inspired aesthetic to the RStudio coding environment. The vibrant theme is designed to balance expressive colors with visual comfort during extended coding sessions.
 
-**2. Kiana's Summer (Oct 1, 2026)**: The second palette, Kiana’s Summer, evokes the imagery *beach*, *ocean*, and *calmness* using various shades of blue along with some green and pink. 
+**2. Kiana's Summer (Oct 1, 2026)**: Blue, Turquoise & Ocean。
+The second palette, Kiana’s Summer, grasp the essence of tranquil oceans, refreshing summer breezes, and serenity. Rooted in various shades of blue, complemented by turquoise, teal, and playful pink accents, the palette introduces a refreshing, soothing, and ocean-inspired aesthetic.
 
-**2. Lilyana's Daydream Light (forthcoming in October 2026)**: Another pink & purple palette designed for those who prefer lighter and brighter colors. The palette keeps the signature pink series while introducing the barbie blue, orchid pink, and dusty periwinkle. 
+**3. Lilyana's Daydream Light (forthcoming in October)**: Pink, Purple, Barbie Blue, & Periwinkle
+A lighter and brighter reinterpretation of the original Lilyana's Daydream, the third palette preserves its signature pink and purple aesthetic while introducing Barbie blue, orchid pink, and dusty periwinkle. The result is a softer, more delicate color palette that celebrates femininity and fantasy.
 
-# How to apply the RStduio Theme 🌸🌸🌸
+## How to apply the RStduio Theme 🌸🌸🌸
 Option 1: Install via URL
 1. Click the `.rstheme` file you would like to install.
 2. Click **Raw** in the upper-right corner.
@@ -37,7 +39,7 @@ Download the `.rstheme` file.
 7. Click **Apply** or **OK**.
 8. 🎉 Success! Congrats, you did it!!! Welcome to the Fantasy Palette Series. 🌸
 
-# Themes Preview 🌸🌸🌸
+## Themes Preview 🌸🌸🌸
 ### 1. Lilyana's Daydream (2026)
 ![Editor Preview](images/Lilyana_daydream1.png)
 ![Console Preview](images/Lilyana_daydream2.png)
