@@ -40,9 +40,12 @@ Download the `.rstheme` file.
 8. 🎉 Success! Congrats, you did it!!! Welcome to the Fantasy Palette Series. 🌸
 
 ## Themes Preview 🌸🌸🌸
-### 1. Lilyana's Daydream (2026)
+### 1. Lilyana's Daydream
 ![Editor Preview](images/Lilyana_daydream1.png)
-![Console Preview](images/Lilyana_daydream2.png)
+### 2. Kiana's Summer
+![Editor Preview](images/Lilyana_daydream1.png)
+### 3. Lilyana's Daydream Light
+![Editor Preview](images/Lilyana_daydream1.png)
 
 ## Customer Services 🌸🌸🌸
 Looking for a personalized color palette or interested in customizing one of our existing themes? I offer free customization upon request!
