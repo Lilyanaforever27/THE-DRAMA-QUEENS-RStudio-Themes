@@ -15,7 +15,7 @@ The second palette, Kiana’s Summer, grasp the essence of tranquil oceans, refr
 **3. Lilyana's Daydream Light (Oct 2, 2026)**: Pink, Purple, Barbie Blue, & Periwinkle
 A lighter and brighter reinterpretation of the original Lilyana's Daydream, the third palette preserves its signature pink and purple aesthetic while introducing Barbie blue, orchid pink, and dusty periwinkle. The result is a softer, more delicate color palette that celebrates femininity and fantasy.
 
-## How to apply the RStduio Theme 🌸🌸🌸
+## How to Use the RStduio Theme 🌸🌸🌸
 Option 1: Install via URL
 1. Click the `.rstheme` file you would like to install.
 2. Click **Raw** in the upper-right corner.
