@@ -12,7 +12,7 @@ As the first palette of the collection, **Lilyana's Daydream (2026)** captures t
 **2. Kiana's Summer (Oct 1, 2026)**: Blue, Turquoise & Ocean。
 The second palette, Kiana’s Summer, grasp the essence of tranquil oceans, refreshing summer breezes, and serenity. Rooted in various shades of blue, complemented by turquoise, teal, and playful pink accents, the palette introduces a refreshing, soothing, and ocean-inspired aesthetic.
 
-**3. Lilyana's Daydream Light (forthcoming in October)**: Pink, Purple, Barbie Blue, & Periwinkle
+**3. Lilyana's Daydream Light (Oct 2, 2026)**: Pink, Purple, Barbie Blue, & Periwinkle
 A lighter and brighter reinterpretation of the original Lilyana's Daydream, the third palette preserves its signature pink and purple aesthetic while introducing Barbie blue, orchid pink, and dusty periwinkle. The result is a softer, more delicate color palette that celebrates femininity and fantasy.
 
 ## How to apply the RStduio Theme 🌸🌸🌸
