@@ -1,5 +1,9 @@
-# The Fantasy Palette Series Customized RStudio Themes🌸🌸🌸
-The Fantasy Palette Series is a collection of customized RStudio themes inspired by fantasy, cosmetics, and color palettes. Initiated on June 23, 2026, the series is based on Ben Harrap’s RStudio theme Knitted (&lt;https://benharrap.com/post/two-more-rsthemes/>). Many thanks to Ben!
+# RStudio Themes Collection I: THE DRAMA QUEENS🌸🌸🌸
+Inspired by films, stories, and cosmetics, THE DRAMA QUEENS is a customized RStudio Themes designed by Lilyana Pan. 
+The project was initiated on June 23, 2026, and builds upon the code from Ben Harrap's Knitted RStudio theme (&lt;https://benharrap.com/post/two-more-rsthemes/>). Special thanks to Ben Harrap for sharing his work!
+
+## Why RStudio Themes? & Why Choosing THE DRAMA QUEENS?
+While there is a growing number of customized RStudio themes, there has been a lack of relevant themes for RStudio that are vibrant, feminine, and fashion-inspired palettes. For many of us, RStudio has become a handy software through which we conduct statistical analysis. However, existing themes may not fully accommodate users who prefer more varied, expressive, and vibrant color palettes. **I believe that aesthetics and analysis can coexist. Gender is a spectrum, and so should RStudio themes be. Software customization should accommodate diverse aesthetic preferences rather than conform to a single visual style.** **THE DRAMA QUEENS?** is therefore a collection of Rthemes that addresses this gap of users' preferences. Drawing inspiration from films (e.g., Barbie), stories, fashion, and cosmetics, it celebrates femininity, diversity, and self-expression. 
 
 **1. Lilyana's Daydream (aka Lily's Dream, June 24,2026)**: As the first palette of Lilyana's The Fantasy series, **Lilyana's Daydream (2026)** captures the vibe of *fantasy*,*dreaminess*, *Barbie-inspired glamour*, and celebration of *womanhood*.Built around shades of *pink*, *purple*, *blue*, and *yellow*, this palette provides an alternative pink & purple option that existing R themes are missing. The vibrant color palette is designed to remain gentle on the eyes and provide visual comfort during longer coding sessions.
 
