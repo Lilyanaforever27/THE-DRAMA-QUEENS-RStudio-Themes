@@ -16,7 +16,8 @@ The second palette, Kiana’s Summer, grasp the essence of tranquil oceans, refr
 A lighter and brighter reinterpretation of the original Lilyana's Daydream, the third palette preserves its signature pink and purple aesthetic while introducing Barbie blue, orchid pink, and dusty periwinkle. The result is a softer, more delicate color palette that celebrates femininity and fantasy.
 
 ## How to Use the RStduio Theme 🌸🌸🌸
-Video Tutorial: [YouTube Link Here].
+Video Tutorial: https://youtu.be/ZX8O6r34r0M.
+
 Option 1: Install via URL
 1. Click the `.rstheme` file you would like to install.
 2. Click **Raw** in the upper-right corner.
